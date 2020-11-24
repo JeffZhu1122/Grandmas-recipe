@@ -1,0 +1,55 @@
+.avarta-margin{
+    width: 150px !important;
+}
+
+.title{
+    margin-left: 200px;
+    margin-top: -80px;
+    font-weight:bolder;
+    font-size:250%;
+    white-space: nowrap;
+}
+
+
+.follow-box{
+    border-style: outset;
+    width:200px;
+    height:80px;
+    margin-top: 30px;
+    margin-left: -60px;
+}
+
+.follow-text{
+    text-align:center;
+    float:left;
+    color: gray;
+    margin-top:10px;
+    margin-left:10px;
+}
+
+.follow-text-margin{
+    margin-left:-25px;
+}
+
+.follow-line-margin{
+    margin-left:37px;
+    margin-top:15px;
+}
+
+.height_width{
+    height: 230px;
+    width: 60%;
+    /* margin: 100px, 0px, 0px, 0px; */
+    margin: 50px 0px 0px 160px !important;
+    /* up right down left */
+    /* background-color: powderblue; */
+    /* opacity: 0.3; */
+    /* border-style: solid; */
+    border: 3px solid #000000;
+}
+
+.middle-line{
+    width: 1px;
+    height: 45px; 
+    background-color:gray;  
+}

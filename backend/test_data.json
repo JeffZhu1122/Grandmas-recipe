@@ -1,0 +1,128 @@
+[{
+	"model": "category.category",
+	"pk": 1,
+	"fields": {
+		"category": "Breakfast",
+		"total_recipe": 23
+	}
+}, {
+	"model": "category.category",
+	"pk": 2,
+	"fields": {
+		"category": "Lunch",
+		"total_recipe": 19
+	}
+}, {
+	"model": "category.category",
+	"pk": 3,
+	"fields": {
+		"category": "Dinner",
+		"total_recipe": 29
+	}
+}, {
+	"model": "category.category",
+	"pk": 4,
+	"fields": {
+		"category": "Meatlovers",
+		"total_recipe": 27
+	}
+}, {
+	"model": "category.category",
+	"pk": 5,
+	"fields": {
+		"category": "Vegetarian",
+		"total_recipe": 17
+	}
+}, {
+	"model": "category.category",
+	"pk": 6,
+	"fields": {
+		"category": "Asian",
+		"total_recipe": 21
+	}
+}, {
+	"model": "category.category",
+	"pk": 7,
+	"fields": {
+		"category": "Italian",
+		"total_recipe": 18
+	}
+}, {
+	"model": "category.category",
+	"pk": 8,
+	"fields": {
+		"category": "Dessert",
+		"total_recipe": 20
+	}
+}, {
+	"model": "category.category",
+	"pk": 9,
+	"fields": {
+		"category": "Seafood",
+		"total_recipe": 22
+	}
+}, {
+	"model": "user.user",
+	"pk": 1,
+	"fields": {
+		"username": "root",
+		"password": "e456ffd8bb1a7cd21638a70eb5963e5b",
+		"salt": "U3bviYQT",
+		"email": "root",
+		"introduction": "",
+		"gender": "",
+		"date_of_birth": "2020-11-19",
+		"register_date": "2020-11-19T08:57:50.049",
+		"total_follower": 0,
+		"total_following": 0,
+		"profile_image": "avatar/default.png"
+	}
+}, {
+	"model": "user.user",
+	"pk": 2,
+	"fields": {
+		"username": "Sophie",
+		"password": "6187d8ac9380613b2ddde69b2e67c946",
+		"salt": "p3J6xjox",
+		"email": "1",
+		"introduction": "",
+		"gender": "",
+		"date_of_birth": "2020-11-19",
+		"register_date": "2020-11-19T09:04:18.803",
+		"total_follower": 0,
+		"total_following": 0,
+		"profile_image": "avatar/default.png"
+	}
+}, {
+	"model": "user.user",
+	"pk": 3,
+	"fields": {
+		"username": "test",
+		"password": "b5e076f4fbf0a23b60f7955db7000e08",
+		"salt": "uQ7x6eeH",
+		"email": "2",
+		"introduction": "",
+		"gender": "",
+		"date_of_birth": "2020-11-19",
+		"register_date": "2020-11-19T09:06:00.401",
+		"total_follower": 0,
+		"total_following": 0,
+		"profile_image": "avatar/default.png"
+	}
+}, {
+	"model": "user.user",
+	"pk": 6,
+	"fields": {
+		"username": "Rachel",
+		"password": "e01a59568d0f100efe6e983cb3d42260",
+		"salt": "YJR4dY5Z",
+		"email": "qyan6939@gmail.com",
+		"introduction": "I love cooking!",
+		"gender": "female",
+		"date_of_birth": "2020-11-19",
+		"register_date": "2020-11-19T09:06:45.304",
+		"total_follower": 0,
+		"total_following": 0,
+		"profile_image": "avatar/default.png"
+	}
+}]

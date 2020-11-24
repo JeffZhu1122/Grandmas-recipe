@@ -1,0 +1,240 @@
+@charset "utf-8";
+
+/* index */
+.index-body{
+    margin:30px;
+    left:0;
+    /* height: 86%; */
+}
+
+.center{
+    align:center;
+    text-align:center;
+}
+
+.r_i{
+    width:250px;
+    height:250px;
+}
+
+.tree-nav{
+    margin: 100px;
+}
+
+/* profile */
+.profile-body{
+    margin: 110px;
+}
+
+.profile-form{
+    margin: 50px;
+}
+
+.p_avatar{
+    margin-top:-35px;
+    height:100px;
+    width:100px;
+}
+
+.non_border{
+    border:none;
+    outline:none;
+}
+
+/* header */
+.cal-header{
+    margin-left:-15px;
+    font-size: 40px; 
+    color: #393D49;
+}
+
+.logo{
+    width:50px;
+    height:50px;
+}
+
+.search-bar{
+    margin-left:100px;
+}
+.search-bar .input-item{
+    width:320px;
+}
+
+.header-up{
+    margin-top: -5.5px;
+}
+
+.seperater{
+    margin:-10px 10px 0px 10px;
+    color:#393D49;
+}
+
+/* .layui-nav-item .layui-form .select-item{
+    width:120px;
+    color:black;
+} */
+
+
+.layui-nav .layui-nav-more{
+    border-top-color:#393D49;
+}
+.layui-nav .layui-nav-mored{
+    border-color: transparent transparent #393D49;
+}
+
+
+/* footer */
+.layui-layout-admin .my-footer {
+    height: 40px;
+    left: 0px;
+    text-align: center;
+}
+
+/* calendar */
+.cal-main th{
+    text-align:center;
+    height: 70px
+}
+
+.cal-item{
+    margin-left:10px;
+}
+.cal-main td{
+    text-align:center;
+    height: 110px
+}
+.cal-main input{
+    text-align:center;
+}
+
+.layui-header {
+    background: none;
+}
+
+.cal-main {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: 1100px;
+    margin: 0 auto;
+}
+
+.cal-main header{
+    margin-top: 110px;
+    height: 35px;
+    line-height: 35px;
+    font-size: 25px;
+    font-weight: 100;
+    text-align: center;
+}
+
+.data-item{
+    margin: auto;
+    text-align: center;
+}
+
+.cal-table{
+    margin-top: 40px;
+}
+
+/* login */
+a.fr{
+   float: right;
+}
+
+.login-box {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    width: 320px;
+    height: 241px;
+    max-height: 300px;
+}
+
+.login-body .login-box h3 {
+    color: #444;
+    font-size: 22px;
+    font-weight: 100;
+    text-align: center;
+}
+
+.login-box .layui-input[type='number'] {
+    display: inline-block;
+    width: 0%;
+    vertical-align: top;
+}
+
+.login-box img {
+    display: inline-block;
+    width: 46%;
+    height: 38px;
+    border: none;
+    vertical-align: top;
+    cursor: pointer;
+    margin-left: 4%;
+}
+
+.login-box button.btn-reset {
+    width: 95px;
+}
+
+.login-box button.btn-submit {
+    width: 190px;
+}
+
+.login-main {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: 350px;
+    margin: 0 auto;
+}
+
+.login-main header {
+    margin-top: 150px;
+    height: 35px;
+    line-height: 35px;
+    font-size: 30px;
+    font-weight: 100;
+    text-align: center;
+}
+
+.login-main header, .login-main form, .login-main form .layui-input-inline {
+    margin-bottom: 15px;
+}
+
+.login-main form .layui-input-inline, .login-main form .layui-input-inline input, .login-main form .layui-input-inline button {
+    width: 100%;
+}
+
+.login-main form .login-btn {
+    margin-bottom: 5px;
+}
+
+/* layui css cover */
+html body .layui-nav .layui-nav-bar {
+    opacity: 0 !important;
+    overflow: hidden !important;
+}
+
+.layui-nav .layui-this:after, .layui-nav-bar, .layui-nav-tree .layui-nav-itemed:after {
+    background-color: transparent;
+}
+
+.my-body .layui-tab-card > .layui-tab-title li {
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.layui-layer-tips .layui-layer-content {
+    padding: 5px;
+}
